@@ -21,12 +21,7 @@
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
-    {
-        "name": "React",
-        "icon": "https://img.icons8.com/color/48/000000/React--v1.png"
-    },
-   
-    {
+   {
         "name": "Kotlin",
         "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
     },

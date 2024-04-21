@@ -21,6 +21,10 @@
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
+    {
+        "name": "SpringBoot",
+        "icon": "https://img.icons8.com/color/48/000000/springboot--v1.png"
+    },
    
     {
         "name": "Kotlin",
